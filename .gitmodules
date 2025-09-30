@@ -1,12 +1,15 @@
-[submodule "dwmblocks"]
-	path = dwmblocks
-	url = git@github.com:inrosk/dwmblocks-new.git
+[submodule "dwmblocks-async"]
+	path = dwmblocks-async
+	url = git@github.com:inrosk/dwmblocks-async.git
 [submodule "dwm"]
 	path = dwm
-	url = git@github.com:inrosk/dwm-new.git
+	url = git@github.com:inrosk/dwm.git
 [submodule "dmenu"]
 	path = dmenu
-	url = git@github.com:inrosk/dmenu-new.git
+	url = git@github.com:inrosk/dmenu.git
 [submodule "st"]
 	path = st
-	url = git@github.com:inrosk/st-new.git
+	url = git@github.com:inrosk/st.git
+[submodule "dwmblock"]
+	path = dwmblocks
+	url = git@github.com:inrosk/dwmblocks.git
